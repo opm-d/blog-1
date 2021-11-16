@@ -1,6 +1,6 @@
 # My experience coming from C++ to JavaScript
 
-Having been with C++ for a long time, I'd become comfortable with it. I'd use it both as a scripting language and for building complex desktop applications. Adding Qt gave me powerful tools for creating user interfaces; and I had access to OpenCL for accelerated computing, OpenGL for real-time graphics, OpenCV for image processing, etc. For my needs, this ecosystem worked very well for a long time.
+Having been with C++ for a long time, I'd become comfortable with it. I'd use it both as a scripting language and for building complex desktop applications. Adding [Qt](https://www.qt.io/) gave me powerful tools for creating user interfaces; and I had access to [OpenCL](https://www.khronos.org/opencl/) for accelerated computing, [OpenGL](https://www.opengl.org/) for real-time graphics, [OpenCV](https://opencv.org/) for image processing, etc. For my needs, this ecosystem worked very well for a long time.
 
 But over time, pressure mounted for me to expand into the web development sphere. So I started learning JavaScript.
 
