@@ -271,9 +271,9 @@ Among the biggest elephants in the room has to be JavaScript's sprawling package
 
 As a C++ developer, I was used to working at low level, carefully managing the dependencies of my applications and often introducing no dependencies at all besides the standard library. By contrast, JavaScript is a high-level language where a typical project may depend on hundreds or thousands of external packages, and whose developer base seems more accepting of abstracting away the lower-level details behind those external dependencies.
 
-When learning the GUI framework [React](https://reactjs.org/), it's typically recommended to use the [create-react-app](https://github.com/facebook/create-react-app) project bootstrapper. It sets up a React development environment in an automated way, saving you the trouble of manually doing the boilerplate. The downside is that it also makes your development environment dependent on over 1,500 extra packages.
+When learning [React](https://reactjs.org/), it's typically recommended to use the [create-react-app](https://github.com/facebook/create-react-app) project bootstrapper. It sets up a React development environment in an automated way, saving you the trouble of manually doing the boilerplate. The downside is that it also makes your development environment dependent on over 1,500 extra packages.
 
-When I started learning React (I was still fairly new to JavaScript overall), I thought the amount dependencies introduced by create-react-app was absolutely nuts. Why would a hello-world app need hundreds of miscellaneous dependencies? I chose to go against the grain of every React tutorial and learn the framework without packages or package managers:
+When I started learning React (I was still fairly new to JavaScript overall), I thought the amount dependencies introduced by create-react-app was absolutely nuts. Why would a hello-world app need hundreds of miscellaneous dependencies? I chose to go against the grain of every React tutorial and learn it without packages or package managers:
 
 ```html
 <div id="react-container"></div>
